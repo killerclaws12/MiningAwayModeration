@@ -11,7 +11,7 @@ module.exports = class ReadyEvent extends BaseEvent {
         name: 'Under Maintenance ',
         type: 'PLAYING'
       },
-      status: 'dnd'
+      status: 'idle'
     })    
   }
 }
